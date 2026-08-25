@@ -1,0 +1,1 @@
+print("FlightFore environment is working!")

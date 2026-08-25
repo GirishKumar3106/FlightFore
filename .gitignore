@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large datasets
+data/*.csv
+data/*.zip
+data/**/*.csv
+data/**/*.zip
+
+# Generated models
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+
+# MLflow
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
